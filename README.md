@@ -1,5 +1,7 @@
 # SimpleBar [![npm package][npm-badge]][npm] ![size-badge]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Demivan/simplebar.svg)](https://greenkeeper.io/)
+
 :warning: SimpleBar v4 is here! There are some **breaking changes!** Make sure to check out [the changelog](https://github.com/Grsmto/simplebar/releases) before updating.
 
 SimpleBar is a plugin that tries to solve a long time problem: how to get custom scrollbars for your web-app?
