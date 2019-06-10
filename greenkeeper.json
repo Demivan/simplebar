@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "examples/nextjs/package.json",
+        "examples/react/package.json",
+        "examples/vue/package.json",
+        "package.json",
+        "packages/simplebar-react/package.json",
+        "packages/simplebar-vue/package.json",
+        "packages/simplebar/package.json"
+      ]
+    }
+  }
+}
