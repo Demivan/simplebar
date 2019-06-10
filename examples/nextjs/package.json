@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^7.0.2",
+    "next": "^8.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "simplebar-react": "^0.1.4"
+    "simplebar-react": "^1.0.0"
   },
   "devDependencies": {
-    "terser": "^3.14.1"
+    "terser": "^4.0.0"
   }
 }
